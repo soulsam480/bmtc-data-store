@@ -1,8 +1,6 @@
 import { Kysely } from 'kysely';
 
 export async function up(db: Kysely<any>): Promise<void> {
-  await db.schema.dropTable('routes').ifExists().execute();
-
   await db.schema
     .createTable('routes')
     .addColumn('id', 'integer', (col) => col.primaryKey().autoIncrement())

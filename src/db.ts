@@ -8,11 +8,13 @@ import {
 import IDatabase from 'better-sqlite3';
 import fs from 'node:fs/promises';
 import path from 'node:path';
+import { JSONPlugin } from './JSONPlugin';
 
 interface IRouteTable {
   id: Generated<number>;
   route_name: string;
   route_stops: string[];
+  map_link: string | null;
 }
 
 interface IDatabase {
@@ -26,6 +28,7 @@ const db = new Kysely<IDatabase>({
     database: new IDatabase('bmtc.db'),
   }),
   log: ['query', 'error'],
+  plugins: [new JSONPlugin({ jsonFields: ['route_stops'] })],
 });
 
 export const migrator = new Migrator({
