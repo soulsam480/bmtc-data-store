@@ -113,4 +113,4 @@ async function main(scrape = false) {
   }
 }
 
-void main(true);
+void main();

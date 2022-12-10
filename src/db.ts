@@ -5,7 +5,7 @@ import {
   Migrator,
   SqliteDialect,
 } from 'kysely';
-import IDatabase from 'better-sqlite3';
+import Database from 'better-sqlite3';
 import fs from 'node:fs/promises';
 import path from 'node:path';
 import { JSONPlugin } from './JSONPlugin';
@@ -21,11 +21,23 @@ interface IDatabase {
   routes: IRouteTable;
 }
 
+const sqliteDriver = new Database('bmtc.db');
+
+sqliteDriver.prepare('pragma journal_mode = delete;').run();
+
+sqliteDriver.prepare('pragma page_size = 1024;').run();
+
+// sqliteDriver
+//   .prepare("insert into ftstable(ftstable) values ('optimize');")
+//   .run();
+
+sqliteDriver.prepare('vacuum;').run();
+
 // You'd create one of these when you start your app.
 const db = new Kysely<IDatabase>({
   // Use MysqlDialect for MySQL and SqliteDialect for SQLite.
   dialect: new SqliteDialect({
-    database: new IDatabase('bmtc.db'),
+    database: sqliteDriver,
   }),
   log: ['query', 'error'],
   plugins: [new JSONPlugin({ jsonFields: ['route_stops'] })],
