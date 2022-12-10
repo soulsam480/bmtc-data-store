@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsx --watch src/index.ts",
-    "build": "sh ./create_db.sh bmtc.db public/db-chunks"
+    "build": "sh ./create_db.sh bmtc.db build/db-chunks"
   },
   "keywords": [],
   "author": "",
