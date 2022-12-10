@@ -1,0 +1,72 @@
+[
+  {
+    "no": "58",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " Timber Yard Layout"
+    ]
+  },
+  {
+    "no": "58A",
+    "stops": [
+      "Timber Yard Layout",
+      " New Guddadahalli",
+      " Valmikinagar",
+      " Sirsi Circle",
+      " Chamarajpet Police Station",
+      " KIMS Hospital/Makkalakoota",
+      " K R Market",
+      " Town Hall",
+      " Corporation",
+      " Kaveri Bhavan",
+      " K R Circle",
+      " Maharani s College",
+      " Vidhana Soudha",
+      " Telephone Exchange (Vidhana Soudha)",
+      " Basaveshwara Circle/R C College",
+      " Race Course Road",
+      " Sivananda Stores",
+      " Swastik",
+      " Central Talkies",
+      " Sheshadripuram",
+      " Malleswaram Circle",
+      " Malleswaram 8th Cross",
+      " Malleswaram 11th Cross",
+      " Malleswaram 18th Cross",
+      " Tata Institute (IISc)",
+      " Yeshwanthpur",
+      " Bombay Dyeing (Yeshwanthpur)",
+      " HMT Layout",
+      " Mathikere",
+      " Chowdeshwari Bus Station"
+    ]
+  },
+  {
+    "no": "58C",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " Timber Yard Layout",
+      " Telecom Colony"
+    ]
+  }
+]

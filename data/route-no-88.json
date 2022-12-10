@@ -1,0 +1,75 @@
+[
+  {
+    "no": "88",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " City Railway Station",
+      " Okalipuram",
+      " Sujatha Talkies",
+      " Rajajinagar Entrance",
+      " Bashyam Circle (Rajajinagar)",
+      " Rajajinagar Industrial Town",
+      " West Of Chord Road 4th Stage",
+      " Havanur Circle",
+      " Basaveshwaranagar"
+    ]
+  },
+  {
+    "no": "88A",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " City Railway Station",
+      " Okalipuram",
+      " Sujatha Talkies",
+      " Rajajinagar Entrance",
+      " Rajajinagar Rama Mandir",
+      " Rajajinagar ESI Hospital",
+      " Rajajinagar EPH",
+      " Basaveshwaranagar 3rd Stage/Saneguruvanahalli"
+    ]
+  },
+  {
+    "no": "88D",
+    "stops": [
+      "Shivajinagar",
+      " Balekundri Circle/Indian Express",
+      " GPO",
+      " Vidhana Soudha",
+      " Telephone Exchange (Vidhana Soudha)",
+      " Basaveshwara Circle/R C College",
+      " Race Course Road",
+      " Sivananda Stores",
+      " Swastik",
+      " Central Talkies",
+      " Sheshadripuram",
+      " Malleswaram Circle",
+      " K C General Hospital",
+      " Devaiah Park",
+      " Srirampuram Harishchandra Ghat",
+      " Mariyappanapalya (Rajajinagar)",
+      " Navarang Talkies",
+      " Basaveshwara College",
+      " Rajajinagar ESI Hospital",
+      " Rajajinagar EPH",
+      " Basaveshwaranagar 3rd Stage/Saneguruvanahalli"
+    ]
+  },
+  {
+    "no": "88E",
+    "stops": [
+      "K R Market",
+      " Town Hall",
+      " Corporation",
+      " Kaveri Bhavan",
+      " Kempegowda Bus Station/Majestic",
+      " City Railway Station",
+      " Okalipuram",
+      " Sujatha Talkies",
+      " Rajajinagar Entrance",
+      " Rajajinagar Rama Mandir",
+      " Rajajinagar ESI Hospital",
+      " Rajajinagar EPH",
+      " Basaveshwaranagar 3rd Stage/Saneguruvanahalli"
+    ]
+  }
+]

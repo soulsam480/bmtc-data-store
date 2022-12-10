@@ -1,0 +1,35 @@
+[
+  {
+    "no": "90",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " Platform Road",
+      " Central Talkies",
+      " Sheshadripuram",
+      " Bhashyam Nagar",
+      " Malleswaram Railway Gate",
+      " Malleswaram KT Apartments",
+      " Malleswaram Canara Union Centre",
+      " Malleswaram 8th Main",
+      " Mysore Lamp Works",
+      " Yeshwanthpur",
+      " Yeshwanthpur Railway Station"
+    ]
+  },
+  {
+    "no": "90E",
+    "stops": [
+      "Yeshwanthpura Railway Station (In Front of Yeshawanthapura Railway Station) Yeshawanthapura",
+      " Yeshwanthpura Market",
+      " Yeshwanthpura Circle (Beside Yeshawanthapura Police Station) Yeshawanthapura",
+      " Mysore Lamps (Opposite of Mysore Lamps Factory) Malleshwaram",
+      " Malleshwaram 18th Cross (Beside Rathnam Complex & Baba Bed Shop) Malleshwaram",
+      " Malleshwaram 13th Cross (Beside Janatha Co-Operative Bank) Malleshwaram",
+      " Malleshwaram 8th Cross (Beside R.V.Apartments & Pushpayani Medicals) Malleshwaram",
+      " Mdblock",
+      " Link Road",
+      " Central (Opposite of Nataraja Talkies) Sheshadri Puram",
+      " Kempegowda Bus Station"
+    ]
+  }
+]

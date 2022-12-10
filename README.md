@@ -10,3 +10,9 @@ A small project group to create a search engine for BMTC buses in Bangalore.
 - The disclaimer of the owners of the data is available on the [Travel 2 Karnataka website](https://travel2karnataka.com/disclaimer.htm)
 
 We are grateful to the owners of the data.
+
+## Usage
+- install node using fnm/nvm
+- install pnpm `npm i -g pnpm`
+- run `pnpm install`
+- run `pnpm dev`

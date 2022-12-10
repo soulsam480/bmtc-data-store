@@ -1,0 +1,87 @@
+[
+  {
+    "no": "31",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet/Uma Talkies",
+      " Bangalore High School",
+      " Ramakrishna Ashram",
+      " Gandhi Bazaar",
+      " National College Basavanagudi",
+      " Basavanagudi Police Station",
+      " Nettakalappa Circle",
+      " N R Colony"
+    ]
+  },
+  {
+    "no": "31A",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet/Uma Talkies",
+      " Bangalore High School",
+      " Ramakrishna Ashram",
+      " Gandhi Bazaar",
+      " National College Basavanagudi",
+      " Basavanagudi Police Station",
+      " Nettakalappa Circle",
+      " N R Colony",
+      " Thyagarajanagar",
+      " Thyagarajanagar CT Bed"
+    ]
+  },
+  {
+    "no": "31B",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet/Uma Talkies",
+      " Bangalore High School",
+      " Ramakrishna Ashram",
+      " Gandhi Bazaar",
+      " National College Basavanagudi",
+      " Basavanagudi Police Station",
+      " Nettakalappa Circle",
+      " N R Colony",
+      " Thyagarajanagar",
+      " Thyagarajanagar Dattatreya Temple"
+    ]
+  },
+  {
+    "no": "31E",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet/Uma Talkies",
+      " Bangalore High School",
+      " Ramakrishna Ashram",
+      " Gandhi Bazaar",
+      " National College Basavanagudi",
+      " Basavanagudi Police Station",
+      " Nettakalappa Circle",
+      " N R Colony",
+      " Thyagarajanagar"
+    ]
+  }
+]

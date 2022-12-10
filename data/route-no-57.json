@@ -1,0 +1,34 @@
+[
+  {
+    "no": "57A",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar"
+    ]
+  },
+  {
+    "no": "57B",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Goods Shed Road",
+      " Cottonpet Hospital",
+      " Mysore Road Flyover",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station"
+    ]
+  }
+]

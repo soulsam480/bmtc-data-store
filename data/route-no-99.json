@@ -1,0 +1,70 @@
+[
+  {
+    "no": "99A",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " Platform Road",
+      " Central Talkies",
+      " Sheshadripuram",
+      " Malleswaram Circle",
+      " Malleswaram 8th Cross",
+      " Malleswaram 11th Cross",
+      " Malleswaram 18th Cross",
+      " Tata Institute (IISc)",
+      " Yeshwanthpur Toll Gate",
+      " M S Ramaiah College",
+      " HMT Layout",
+      " Mathikere",
+      " Chowdeshwari Bus Station"
+    ]
+  },
+  {
+    "no": "99B",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " Platform Road",
+      " Central Talkies",
+      " Sheshadripuram",
+      " Malleswaram Circle",
+      " Malleswaram 8th Cross",
+      " Malleswaram 11th Cross",
+      " Malleswaram 18th Cross",
+      " Tata Institute (IISc)",
+      " Yeshwanthpur Toll Gate",
+      " M S Ramaiah College",
+      " HMT Layout",
+      " Mathikere",
+      " Chowdeshwari Bus Station",
+      " Mohankumarnagar"
+    ]
+  },
+  {
+    "no": "99E",
+    "stops": [
+      "K R Market",
+      " Town Hall",
+      " Corporation",
+      " Kaveri Bhavan",
+      " K R Circle",
+      " Maharani s College",
+      " Vidhana Soudha",
+      " Telephone Exchange (Vidhana Soudha)",
+      " Basaveshwara Circle/R C College",
+      " Race Course Road",
+      " Sivananda Stores",
+      " Swastik",
+      " Central Talkies",
+      " Sheshadripuram",
+      " Malleswaram Circle",
+      " Malleswaram 8th Cross",
+      " Malleswaram 11th Cross",
+      " Malleswaram 18th Cross",
+      " Tata Institute (IISc)",
+      " Yeshwanthpur Toll Gate",
+      " M S Ramaiah College",
+      " HMT Layout",
+      " Mathikere",
+      " Chowdeshwari Bus Station"
+    ]
+  }
+]

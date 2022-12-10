@@ -1,0 +1,41 @@
+[
+  {
+    "no": "32",
+    "stops": [
+      "Shivajinagar",
+      " M G Road (Anil Kumble Circle)",
+      " State Bank Of India (St Mark s Road)",
+      " Bangalore Club",
+      " Richmond Circle",
+      " Double Road",
+      " Shanthinagar Bus Station",
+      " Lalbagh Main Gate",
+      " Minerva Circle",
+      " Lalbagh West Gate",
+      " National College Basavanagudi",
+      " Basavanagudi Police Station",
+      " Nettakalappa Circle",
+      " N R Colony"
+    ]
+  },
+  {
+    "no": "32E",
+    "stops": [
+      "Shivajinagar",
+      " M G Road (Anil Kumble Circle)",
+      " State Bank Of India (St Mark s Road)",
+      " Bangalore Club",
+      " Richmond Circle",
+      " Double Road",
+      " Shanthinagar Bus Station",
+      " Lalbagh Main Gate",
+      " Minerva Circle",
+      " Lalbagh West Gate",
+      " National College Basavanagudi",
+      " Basavanagudi Police Station",
+      " Nettakalappa Circle",
+      " N R Colony",
+      " Thyagarajanagar"
+    ]
+  }
+]

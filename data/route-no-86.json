@@ -1,0 +1,51 @@
+[
+  {
+    "no": "86",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " City Railway Station",
+      " Okalipuram",
+      " Sujatha Talkies",
+      " Minerva Mill",
+      " Leprosarium",
+      " Magadi Road 5th Cross",
+      " Prasanna Talkies",
+      " Magadi Road Toll Gate",
+      " Magadi Road Dasarahalli",
+      " KHB Colony"
+    ]
+  },
+  {
+    "no": "86E",
+    "stops": [
+      "KHB Colony",
+      " Magadi Road Dasarahalli",
+      " Magadi Road Toll Gate",
+      " Prasanna Talkies",
+      " Rajajinagar 6th Block",
+      " Gopalapura (Rajajinagar)",
+      " Rajajinagar Entrance",
+      " Sujatha Talkies",
+      " Okalipuram",
+      " City Railway Station",
+      " Kempegowda Bus Station/Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " J C Road",
+      " Urvashi Talkies",
+      " Lalbagh Main Gate",
+      " Minerva Circle",
+      " Lalbagh West Gate",
+      " Teachers College",
+      " Ashoka Pillar",
+      " Jayanagar 1st Block",
+      " Madhavan Park",
+      " Jayanagar 3rd Block",
+      " Jayanagar 4th Block",
+      " Jayanagar 4th Block Church",
+      " Jayanagar 4th T Block",
+      " Jayanagar 9th Block"
+    ]
+  }
+]

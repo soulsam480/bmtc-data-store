@@ -1,0 +1,112 @@
+[
+  {
+    "no": "78",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " City Railway Station",
+      " Okalipuram",
+      " Sujatha Talkies",
+      " Rajajinagar Entrance",
+      " Bashyam Circle (Rajajinagar)",
+      " Rajajinagar ESI Hospital",
+      " Rajajinagar EPH",
+      " Manjunathanagar (Rajajinagar)",
+      " Rajajinagar 1st Block"
+    ]
+  },
+  {
+    "no": "78A",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " City Railway Station",
+      " Okalipuram",
+      " Sujatha Talkies",
+      " Rajajinagar Entrance",
+      " Bashyam Circle (Rajajinagar)",
+      " Rajajinagar ESI Hospital",
+      " Rajajinagar EPH",
+      " Manjunathanagar (Rajajinagar)",
+      " Rajajinagar 1st Block",
+      " Mahalakshmi Layout Entrance",
+      " ISKCON"
+    ]
+  },
+  {
+    "no": "78E",
+    "stops": [
+      "Kempegowda Bus Station/Majestic",
+      " City Railway Station",
+      " Okalipuram",
+      " Sujatha Talkies",
+      " Rajajinagar Entrance",
+      " Bashyam Circle (Rajajinagar)",
+      " Rajajinagar ESI Hospital",
+      " Rajajinagar EPH",
+      " Manjunathanagar (Rajajinagar)",
+      " Rajajinagar 1st Block",
+      " Mahalakshmi Layout Entrance",
+      " ISKCON",
+      " Government Soap Factory",
+      " Yeshwanthpur",
+      " Yeshwanthpur Railway Station"
+    ]
+  },
+  {
+    "no": "78 DTC Bus",
+    "stops": [
+      "Azadpur Terminal",
+      " Shalimar Bagh Crossing",
+      " Ashok Vihar Crossing",
+      " Prembari Pul",
+      " Wazirpur Depot",
+      " Britania Biscuit Factory",
+      " Punjabi Bagh Terminal",
+      " Rampura",
+      " Zakhira",
+      " Swatantra Bharat Mills",
+      " Moti Nagar",
+      " Sp Depot",
+      " Naraina Depot",
+      " Loha Mandi",
+      " Inderpuri Jj Colony"
+    ]
+  },
+  {
+    "no": "78 CSTC Bus",
+    "stops": [
+      "Raja Dinendra St. & Arabinda Sarani Junction",
+      " Acharya P.C. Road",
+      " Hemanta Setu",
+      " B.T. Road",
+      " Sinthi",
+      " Dunlop Bridge",
+      " Kamarhati",
+      " Panihati",
+      " Sodepur",
+      " Khardha",
+      " Titagarh",
+      " Barrackpur"
+    ]
+  },
+  {
+    "no": "78 BEST Bus",
+    "stops": [
+      "Mahalaxmi Station",
+      " Famous Studio",
+      " Ambika Mills King George Infernary",
+      " Raghuvanshi Mills",
+      " Phoenix Mill",
+      " K V Yadav Chowk Lower Parel",
+      " Toddy Company Empire Dyeing",
+      " Kamla Mill",
+      " Deepak Cinema",
+      " Dhanmill Naka",
+      " Parel S T Depot Sant Rohidas Chowk",
+      " Jakhadevi Dadar Police Station",
+      " Our Lady Of Salvation School",
+      " P Thakre Chowk Dadar",
+      " Ranade Road Dadar",
+      " Ram Ganesh Gadkari Chowk Shivaji Park"
+    ]
+  }
+]

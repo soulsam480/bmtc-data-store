@@ -1,0 +1,237 @@
+[
+  {
+    "no": "59",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar",
+      " Deepanjalinagar",
+      " Attiguppe",
+      " Vijayanagar BMTC Depot",
+      " Vijayanagar Maruti Mandir",
+      " Vijayanagar"
+    ]
+  },
+  {
+    "no": "59A",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Binnypet",
+      " Binny Mill",
+      " Leprosarium",
+      " Magadi Road 5th Cross",
+      " Prasanna Talkies",
+      " Magadi Road Toll Gate",
+      " Manuvana",
+      " Vijayanagar"
+    ]
+  },
+  {
+    "no": "59B",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar",
+      " Deepanjalinagar",
+      " Attiguppe",
+      " Vijayanagar BMTC Depot",
+      " Vijayanagar Maruti Mandir",
+      " Marenahalli (Vijayanagar)"
+    ]
+  },
+  {
+    "no": "59C",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar",
+      " Deepanjalinagar",
+      " Attiguppe",
+      " Widia Layout",
+      " BHEL Township (GKW Layout)",
+      " GKW Layout"
+    ]
+  },
+  {
+    "no": "59D",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar",
+      " Deepanjalinagar",
+      " Attiguppe",
+      " Chandra Layout Water Tank",
+      " Income Tax Layout",
+      " Gangondanahalli (Mysore Road)",
+      " Nayandahalli Railway Gate"
+    ]
+  },
+  {
+    "no": "59F",
+    "stops": [
+      "Chandra Layout 1st Stage",
+      " Chandra Layout",
+      " Chandra Layout Water Tank",
+      " Attiguppe",
+      " Deepanjalinagar",
+      " Bapujinagar",
+      " MCTC Mysore Road Bus Station",
+      " New Guddadahalli",
+      " Valmikinagar",
+      " Sirsi Circle",
+      " T R Mill",
+      " Chamarajpet Police Station",
+      " Chamarajpet",
+      " KIMS Hospital/Makkalakoota",
+      " K R Market",
+      " Town Hall",
+      " Corporation",
+      " Kanteerava Stadium",
+      " Mallya Hospital",
+      " Richmond Circle",
+      " Double Road",
+      " Shanthinagar Bus Station"
+    ]
+  },
+  {
+    "no": "59G",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Binnypet",
+      " Binny Mill",
+      " Leprosarium",
+      " Magadi Road 5th Cross",
+      " Prasanna Talkies",
+      " Magadi Road Toll Gate",
+      " Manuvana",
+      " Vijayanagar",
+      " Vijayanagar Maruti Mandir",
+      " Vijayanagar BMTC Depot",
+      " RPC Layout",
+      " Hampinagar"
+    ]
+  },
+  {
+    "no": "59H",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar",
+      " Deepanjalinagar",
+      " BCC Layout"
+    ]
+  },
+  {
+    "no": "59K",
+    "stops": [
+      "Basaveshwaranagar",
+      " Havanur Circle",
+      " West Of Chord Road 4th Stage",
+      " Magadi Road Dasarahalli",
+      " Vijayanagar",
+      " Vijayanagar Maruti Mandir",
+      " Vijayanagar BMTC Depot",
+      " Attiguppe",
+      " Deepanjalinagar",
+      " Bapujinagar",
+      " MCTC Mysore Road Bus Station",
+      " New Guddadahalli",
+      " Valmikinagar",
+      " Sirsi Circle",
+      " T R Mill",
+      " Chamarajpet Police Station",
+      " Minto Eye Hospital",
+      " K R Market",
+      " Town Hall",
+      " Corporation",
+      " Kanteerava Stadium",
+      " Double Road",
+      " Shanthinagar Bus Station",
+      " Shanthinagar Bus Station"
+    ]
+  },
+  {
+    "no": "59M",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar",
+      " Deepanjalinagar",
+      " Attiguppe",
+      " Chandra Layout Water Tank",
+      " Income Tax Layout",
+      " Gangondanahalli (Mysore Road)",
+      " Nayandahalli Railway Gate",
+      " Nayandahalli Temple Circle"
+    ]
+  },
+  {
+    "no": "59S",
+    "stops": [
+      "Shivajinagar",
+      " Balekundri Circle/Indian Express",
+      " GPO",
+      " Chinnaswami Stadium",
+      " Visvesvaraya Museum",
+      " Kanteerava Stadium",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Valmikinagar",
+      " New Guddadahalli",
+      " MCTC Mysore Road Bus Station",
+      " Bapujinagar",
+      " Deepanjalinagar",
+      " Attiguppe",
+      " Chandra Layout Water Tank",
+      " Income Tax Layout",
+      " Gangondanahalli (Mysore Road)",
+      " Nayandahalli Railway Gate",
+      " Nayandahalli Vinayaka Layout"
+    ]
+  }
+]

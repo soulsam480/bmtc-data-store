@@ -1,0 +1,28 @@
+[
+  {
+    "no": "54",
+    "stops": [
+      "K R Market",
+      " KIMS Hospital/Makkalakoota",
+      " Chamarajpet Police Station",
+      " Sirsi Circle",
+      " Harishchandra Temple",
+      " Vinayakanagar (Guddadahalli)"
+    ]
+  },
+  {
+    "no": "54E",
+    "stops": [
+      "Kempegowda Bus Station",
+      " Majestic",
+      " Kaveri Bhavan",
+      " Corporation",
+      " Town Hall",
+      " K R Market",
+      " Mysore Road Flyover",
+      " Sirsi Circle",
+      " Harishchandra Temple",
+      " Vinayakanagar (Guddadahalli)"
+    ]
+  }
+]
