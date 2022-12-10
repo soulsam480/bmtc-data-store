@@ -1,2 +1,5 @@
 /*
   Access-Control-Allow-Origin: *
+
+/db-chunks
+  Cache-Control: public, max-age=86400, stale-while-revalidate=86400
