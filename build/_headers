@@ -2,7 +2,7 @@
   Access-Control-Allow-Origin: *
 
 /*.json
-  Cache-Control: public, max-age=1000
+  Cache-Control: public, max-age=10000
 
 /db-chunks/*
   Cache-Control: public, max-age=1000
