@@ -5,16 +5,15 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsx --watch src/index.ts",
-    "build": "tsx src/buildJson.ts"
+    "build": "sh ./create_db.sh bmtc.db build/db-chunks && tsx src/buildJson.ts"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@types/better-sqlite3": "^7.6.3",
     "better-sqlite3": "^8.0.1",
     "cheerio": "1.0.0-rc.12",
-    "fuse.js": "^6.6.2",
     "kysely": "^0.22.0",
     "typescript": "^4.9.4"
   },
