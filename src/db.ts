@@ -17,7 +17,7 @@ interface IRouteTable {
   map_link: string | null;
 }
 
-interface IDatabase {
+export interface IDatabase {
   routes: IRouteTable;
 }
 
