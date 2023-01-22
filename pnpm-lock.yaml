@@ -1,7 +1,6 @@
 lockfileVersion: 5.4
 
 specifiers:
-  '@datastructures-js/graph': ^5.3.0
   '@types/better-sqlite3': ^7.6.3
   '@types/fs-extra': ^11.0.1
   '@types/node': ^18.11.12
@@ -14,7 +13,6 @@ specifiers:
   typescript: ^4.9.4
 
 dependencies:
-  '@datastructures-js/graph': 5.3.0
   '@types/better-sqlite3': 7.6.3
   better-sqlite3: 8.0.1
   cheerio: 1.0.0-rc.12
@@ -29,16 +27,6 @@ devDependencies:
   tsx: 3.12.1
 
 packages:
-
-  /@datastructures-js/graph/5.3.0:
-    resolution: {integrity: sha512-Owbn40ha2W22i6yGSTmOb7ppL6RZKCeFf9tVKqFVXClb5rWQgscHDIyuHXFcNkdlsrq3O0E7zvJ45O60/8m/mg==}
-    dependencies:
-      '@datastructures-js/queue': 3.1.4
-    dev: false
-
-  /@datastructures-js/queue/3.1.4:
-    resolution: {integrity: sha512-8QqkdAJQDDd25OBX28lKj7HXD+Cxs6Ee0ogJkZUjD5R1fAvRAWsrCeKop0szqANYjMwdQQd75vyc3Cm8qNJH+Q==}
-    dev: false
 
   /@esbuild-kit/cjs-loader/2.4.1:
     resolution: {integrity: sha512-lhc/XLith28QdW0HpHZvZKkorWgmCNT7sVelMHDj3HFdTfdqkwEKvT+aXVQtNAmCC39VJhunDkWhONWB7335mg==}
