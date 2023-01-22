@@ -33,9 +33,7 @@ sqliteDriver.prepare('pragma page_size = 1024;').run();
 
 sqliteDriver.prepare('vacuum;').run();
 
-// You'd create one of these when you start your app.
 const db = new Kysely<IDatabase>({
-  // Use MysqlDialect for MySQL and SqliteDialect for SQLite.
   dialect: new SqliteDialect({
     database: sqliteDriver,
   }),
@@ -44,7 +42,7 @@ const db = new Kysely<IDatabase>({
 });
 
 export const migrator = new Migrator({
-  db: db,
+  db,
   provider: new FileMigrationProvider({
     fs,
     path,
@@ -52,7 +50,7 @@ export const migrator = new Migrator({
   }),
 });
 
-type IDb = typeof db;
+export type IDb = typeof db;
 
 export async function dbExec<T>(fn: (db: IDb) => Promise<T>) {
   return await fn(db);

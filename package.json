@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "dev": "tsx --watch src/index.ts",
-    "build": "sh ./create_db.sh bmtc.db build/db-chunks && tsx src/buildJson.ts"
+    "build": "tsx src/buildJson.ts",
+    "tsx": "tsx"
   },
   "keywords": [],
   "author": "",
@@ -15,10 +16,13 @@
     "better-sqlite3": "^8.0.1",
     "cheerio": "1.0.0-rc.12",
     "kysely": "^0.22.0",
+    "remeda": "^1.6.0",
     "typescript": "^4.9.4"
   },
   "devDependencies": {
+    "@types/fs-extra": "^11.0.1",
     "@types/node": "^18.11.12",
+    "fs-extra": "^11.1.0",
     "tsx": "^3.12.1"
   }
 }
