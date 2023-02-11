@@ -1,25 +1,25 @@
-import {
+import type {
   KyselyPlugin,
   PluginTransformQueryArgs,
   PluginTransformResultArgs,
   QueryResult,
   RootOperationNode,
   UnknownRow,
-} from 'kysely';
+} from 'kysely'
 
 interface IJSONPluginArgs {
-  jsonFields: string[];
+  jsonFields: string[]
 }
 
 export class JSONPlugin implements KyselyPlugin {
-  #jsonFields: string[] = [];
+  #jsonFields: string[] = []
 
   constructor(args: IJSONPluginArgs) {
-    this.#jsonFields = args.jsonFields;
+    this.#jsonFields = args.jsonFields
   }
 
   transformQuery(args: PluginTransformQueryArgs): RootOperationNode {
-    return args.node;
+    return args.node
   }
 
   async transformResult(
@@ -28,11 +28,11 @@ export class JSONPlugin implements KyselyPlugin {
     if (args.result.rows && Array.isArray(args.result.rows)) {
       return {
         ...args.result,
-        rows: args.result.rows.map((row) => this.#mapRow(row)),
-      };
+        rows: args.result.rows.map(row => this.#mapRow(row)),
+      }
     }
 
-    return args.result;
+    return args.result
   }
 
   #mapRow(row: UnknownRow) {
@@ -41,13 +41,13 @@ export class JSONPlugin implements KyselyPlugin {
         return {
           ...acc,
           [key]: JSON.parse(row[key] as string),
-        };
+        }
       }
 
       return {
         ...acc,
         [key]: row[key],
-      };
-    }, {});
+      }
+    }, {})
   }
 }
